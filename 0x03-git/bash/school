@@ -3,5 +3,9 @@
 echo "School"
 =======
 #!/bin/bash
+<<<<<<< HEAD
 The school is open!
+>>>>>>> update_script
+=======
+echo "The school is open!"
 >>>>>>> update_script
